@@ -1,0 +1,6 @@
+{
+  "name": "برنامج الكاشير - نظام إدارة نقاط البيع والمطاعم",
+  "description": "برنامج كاشير متكامل لإدارة نقاط البيع والمطاعم، الفواتير، الشيفتات، الخزينة، والمخزون مع دعم PostgreSQL وواجهة كلاسيكية سريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
